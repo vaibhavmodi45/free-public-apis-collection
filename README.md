@@ -26,6 +26,7 @@ Here's a list of free public APIs:
 
 ---
 
+
 ### 2. Data APIs
 
 * **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)**
