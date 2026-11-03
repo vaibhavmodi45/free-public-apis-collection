@@ -117,6 +117,14 @@ Here's a list of free public APIs:
 ---
 
 
+### 9. Travel & Activities APIs
+
+* **[Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json)**
+    * **Description:** Free, keyless JSON experience feed with one selection per Amsterdam day; Dutch/Netherlands defaults and optional language/world filters.
+    * **Category:** Travel, Activities
+
+---
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more details contribution related queries.
 
 ## 📜 License
